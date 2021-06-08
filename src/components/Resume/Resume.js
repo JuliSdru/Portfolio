@@ -44,7 +44,7 @@ function Resume() {
             <Resumecontent
               title="Desarrollor de software"
               date="Diciembre 2020 - Actualidad 2020"
-              content={[ "Fuerza Aérea Argentina"
+              content={[ "Fuerza Aérea Argentina - Tecnologias utilizadas: C#, .NET Core, SQL Server, Angular, Material NG, HTML5, CSS3, TypeScript, Entity Framework, GitLab"
                
               ]}
             />
